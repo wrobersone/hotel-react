@@ -12,17 +12,17 @@ import Img3 from "../assets/img/heroSlider/3.jpg";
 
 const slides = [
   {
-    title: "Your Luxury Hotel For Vacation",
+    title: "A Weekend Getaway",
     bg: Img1,
     btnText: "View Our Rooms & Suites",
   },
   {
-    title: "Your Luxury Hotel For Vacation",
+    title: "An Extended Vacation",
     bg: Img2,
     btnText: "View Our Rooms & Suites",
   },
   {
-    title: "Your Luxury Hotel For Vacation",
+    title: "A Relaxing Spa Day",
     bg: Img3,
     btnText: "View Our Rooms & Suites",
   },
